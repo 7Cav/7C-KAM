@@ -3510,19 +3510,19 @@
             <Japanese>血液サンプルを取っています、</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_CheckCoag_slightly_lowINR">
-            <English>slightly below normal INR</English>
+            <English>Slightly Below Normal INR</English>
             <Japanese>正常INRより少し低い</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_CheckCoag_slightly_aboveINR">
-            <English>sligtly above normal INR</English>
+            <English>Sligtly Above normal INR</English>
             <Japanese>正常INRより少し高い</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_CheckCoag_highly_lowINR">
-            <English>Very Low INR</English>
+            <English>Very Low normal INR</English>
             <Japanese>正常INRよりかなり低い</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_CheckCoag_highly_aboveINR">
-            <English>Very high INR</English>
+            <English>Very High INR</English>
             <Japanese>正常INRよりかなり高い</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_CheckCoag_normalINR">
